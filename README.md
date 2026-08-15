@@ -1,6 +1,22 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>JavaScript practice projects to strengthen my fundamentals and prepare for Node.js backend development.<br><br>👯 I’m looking to collaborate on  <br>Beginner-friendly JavaScript, Node.js, or Spring Boot projects where I can learn and contribute.<br><br>🤝 I’m looking for help with  <br>Improving JavaScript logic, understanding async concepts, and building scalable backend APIs.<br><br>🌱 I’m currently learning  <br>JavaScript (core concepts), asynchronous programming, Node.js basics, and backend best practices.<br><br>💬 Ask me about  <br>Java fundamentals, Spring Boot basics, REST API development, CRUD operations, authentication basics,  <br>HTML, CSS, JavaScript fundamentals, and backend logic.<br><br>⚡ Fun fact  <br>I started with Java & Spring Boot, and now I’m building strong JavaScript fundamentals to switch into Node.js.<br>
 
+🔭 I’m currently working on  
+Java and Spring Boot projects to strengthen my backend development skills and build real-world applications.
+
+👯 I’m looking to collaborate on  
+Java, Spring Boot, REST API, and backend projects where I can learn, contribute, and improve my development skills.
+
+🤝 I’m looking for help with  
+Improving my problem-solving skills, learning advanced Java concepts, and building scalable and secure backend applications.
+
+🌱 I’m currently learning  
+Advanced Java, Spring Boot, Spring Security, Hibernate/JPA, REST APIs, SQL, and backend development best practices.
+
+💬 Ask me about  
+Java fundamentals, OOP, Spring Boot, REST API development, CRUD operations, Hibernate/JPA, SQL, Git, GitHub, HTML, CSS, and JavaScript fundamentals.
+
+⚡ Fun fact  
+I started with Java fundamentals and gradually moved into Spring Boot, REST APIs, databases, and backend development — and I’m continuously building projects to improve my skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinay-singh-rawat-386068331/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinaysinghrawat505@gmail.com) 
